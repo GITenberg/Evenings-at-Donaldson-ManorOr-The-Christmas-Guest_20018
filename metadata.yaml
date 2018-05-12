@@ -1,0 +1,33 @@
+_repo: Evenings-at-Donaldson-ManorOr-The-Christmas-Guest_20018
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: McIntosh, Maria J. (Maria Jane)
+    aliases:
+    - McIntosh, M. J. (Maria Jane)
+    - M'Intosh, M. J. (Maria Jane)
+    - M'Intosh, Maria
+    - McIntosh, Maria Jane
+    birthdate: 1803
+    deathdate: 1878
+    gutenberg_agent_id: '9034'
+    url: http://www.gutenberg.org/2009/agents/9034
+description: ''
+gutenberg_bookshelf: Christmas
+gutenberg_issued: '2006-12-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20018'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christmas stories'
+- !lcsh 'Fiction'
+- !lcc 'PS'
+title: Evenings at Donaldson Manor; Or, The Christmas Guest
+url: http://www.gutenberg.org/ebooks/20018
