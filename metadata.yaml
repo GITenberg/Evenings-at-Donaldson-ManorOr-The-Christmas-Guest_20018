@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '9034'
     url: http://www.gutenberg.org/2009/agents/9034
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20018#Evenings-at-Donaldson-ManorOr-The-Christmas-Guest
 gutenberg_bookshelf: Christmas
 gutenberg_issued: '2006-12-04'
 gutenberg_type: Text
